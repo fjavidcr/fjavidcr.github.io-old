@@ -56,7 +56,7 @@ export class AppPasapalabra extends LitElement {
 
   constructor() {
     super();
-    this.title = 'My app';
+    this.title = 'Pasapalabra';
   }
 
   render() {
